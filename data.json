@@ -1,0 +1,83 @@
+{
+    "menu":[
+    {
+    "nama": "gado-gado",
+    "jenis": "food",
+    "deskripsi": "dicampur bumbu kacang dah enak",
+    "harga": "Rp 15.000",
+    "estimasi":"5 menit",
+    "gambar": "./img/gado-gado.jpg"
+    },
+    {
+    "nama": "nasi goreng",
+    "jenis": "food",
+    "deskripsi": "nasi goreng kampung dengan telur ceplok",
+    "harga": "Rp 12.000",
+    "estimasi":"10 menit",
+    "gambar": "./img/nasgor.jpg" 
+    },   
+    {
+        "nama": "es teh",
+        "jenis": "drink",
+        "deskripsi": "teh poci dengan es",
+        "harga": "Rp 5.000",
+        "estimasi":"3 menit",
+        "gambar": "./img/esteh.jpg" 
+    },
+    {
+        "nama": "air mineral",
+        "jenis": "drink",
+        "deskripsi": "dari pegunungan terdekat",
+        "harga": "Rp 3.000",
+        "estimasi":"1 menit",
+        "gambar": "./img/aer.jpg" 
+    },
+    {
+        "nama": "es krim",
+        "jenis": "dessert",
+        "deskripsi": "tersedia coklat, stroberi, vanilla",
+        "harga": "Rp 12.000",
+        "estimasi":"5 menit",
+        "gambar": "./img/es.jpg" 
+    },
+    {
+        "nama": "bolu gulung",
+        "jenis": "dessert",
+        "deskripsi": "ya cuma bolu di gulung",
+        "harga": "Rp 7.000",
+        "estimasi":"3 menit",
+        "gambar": "./img/bogul.jpg" 
+    },
+    {
+        "nama": "pop mie",
+        "jenis": "food",
+        "deskripsi": "ya cuma pop mie",
+        "harga": "Rp 8.000",
+        "estimasi":"5 menit",
+        "gambar": "./img/popm.jpg" 
+    },
+    {
+        "nama": "fanta",
+        "jenis": "drink",
+        "deskripsi": "seger dah warna merah",
+        "harga": "Rp 5.000",
+        "estimasi":"2 menit",
+        "gambar": "./img/fan.jpg" 
+    },
+    {
+        "nama": "coca cola",
+        "jenis": "drink",
+        "deskripsi": "sama kayak sampingnya cuma warna item",
+        "harga": "Rp 5.000",
+        "estimasi":"2 menit",
+        "gambar": "./img/col.jpg" 
+    },
+    {
+        "nama": "tahu jeletot",
+        "jenis": "food",
+        "deskripsi": "ya tahu, cuma agak melotot",
+        "harga": "Rp 3.000",
+        "estimasi":"5 menit",
+        "gambar": "./img/tot.jpg" 
+    } ]
+}
